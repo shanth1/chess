@@ -80,8 +80,9 @@
   "short_name": "Chess",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": ".",
+  "start_url": "/chess/",
   "description": "p2p and offline chess client",
   "background_color": "#ffffff",
-  "theme_color": "#ffffff"
+  "theme_color": "#ffffff",
+  "scope": "/chess/"
 }
