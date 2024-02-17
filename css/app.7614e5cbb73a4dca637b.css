@@ -115,11 +115,18 @@
     width: 150px;
     height: 80px;
     cursor: pointer;
-    color: white;
+    color: black;
     font-size: larger;
 }
-.OnZIjsW_ {
-    background-color: antiquewhite;
+.X6UxfUUG {
+    width: 250px;
+    height: 40px;
+    font-size: larger;
 }
 
-/*# sourceMappingURL=app.3a90ef6c5119d60a289c.css.map*/
+.j2362cLf {
+    display: flex;
+    flex-direction: column;
+}
+
+/*# sourceMappingURL=app.7614e5cbb73a4dca637b.css.map*/
