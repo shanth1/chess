@@ -110,31 +110,23 @@
     font-size: 1em; /* 2 */
   }
   
-.header{padding:30px 20px 25px 20px;font-size:32px;font-family:Arial,Helvetica,sans-serif;font-weight:bold;color:rgba(0,0,0,.85)}
+.header{padding:30px 20px;font-size:32px;font-family:Arial,Helvetica,sans-serif;font-weight:bold;color:rgba(0,0,0,.85)}
 .button {
     width: 150px;
-    height: 50px;
-    border: 1px solid gray;
-    border-radius: 10px;
+    height: 80px;
     cursor: pointer;
     color: black;
     font-size: larger;
 }
 .X6UxfUUG {
-    width: 350px;
-    height: 50px;
+    width: 250px;
+    height: 40px;
     font-size: larger;
-    border-radius: 10px;
-    box-sizing: border-box;
-    margin-right: 8px;
-    padding: 0 15px;
 }
 
 .j2362cLf {
     display: flex;
-    align-items: center;
-    gap: 8px;
     flex-direction: column;
 }
 
-/*# sourceMappingURL=app.296c4b73f198a7f4a33e.css.map*/
+/*# sourceMappingURL=app.7614e5cbb73a4dca637b.css.map*/
